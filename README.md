@@ -55,27 +55,12 @@ ml-evaluation-pitfalls-dummy-data/
 ├── README.md
 ├── requirements.txt
 ├── CITATION.cff
-├── data/
-│   ├── subject_leakage_dummy_seed0.csv
-│   ├── label_proxy_leakage_dummy_seed0.csv
-│   ├── extrapolation_train_seed0.csv
-│   ├── extrapolation_test_interpolation_seed0.csv
-│   └── extrapolation_test_extrapolation_seed0.csv
-├── figures/
-│   ├── fig1_workflow.png
-│   ├── fig2_subject_leakage.png
-│   ├── fig3_target_leakage.png
-│   └── fig4_extrapolation.png
-├── notebooks/
-│   └── ml_evaluation_pitfalls_dummy_data.ipynb
-├── results/
-│   ├── subject_leakage_scores_20seeds.csv
-│   ├── label_proxy_leakage_scores_20seeds.csv
-│   ├── extrapolation_scores_20seeds.csv
-│   ├── summary_metrics_20seeds.csv
-│   └── summary_metrics_20seeds.json
-└── src/
-    └── generate_dummy_data_and_figures.py
+├── fig1_workflow.png
+├── fig2_subject_leakage.png
+├── fig3_target_leakage.png
+├── fig4_extrapolation.png
+├── l_evaluation_pitfalls_dummy_data.ipynb
+
 ```
 
 ## 倫理・個人情報
