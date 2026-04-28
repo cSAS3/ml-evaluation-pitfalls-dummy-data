@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this educational material, please cite the associated bulletin article or this repository."
+title: "Learning Pitfalls in Machine-Learning Evaluation with Synthetic Data"
+authors:
+  - family-names: "Shintani"
+    given-names: "Seine A."
+year: 2026
+repository-code: "https://github.com/cSAS3/ml-evaluation-pitfalls-dummy-data"
+license: "Apache-2.0 license"
