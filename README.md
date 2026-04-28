@@ -7,7 +7,7 @@
 
 以下から実行できます。
 
-https://colab.research.google.com/github/cSAS3/ml-evaluation-pitfalls-dummy-data/blob/main/notebooks/ml_evaluation_pitfalls_dummy_data.ipynb
+https://colab.research.google.com/github/cSAS3/ml-evaluation-pitfalls-dummy-data/blob/main/ml_evaluation_pitfalls_dummy_data.ipynb
 
 ## 扱う3つの落とし穴
 
